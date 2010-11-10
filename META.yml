@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Digest-CubeHash
-version:            0.01
+version:            0.02
 abstract:           Perl interface to the CubeHash digest algorithm
 author:
     - gray <gray@cpan.org>
